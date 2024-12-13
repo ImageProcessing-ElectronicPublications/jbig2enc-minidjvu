@@ -17,3 +17,5 @@ Kjbig2 = Kpack / (1.0 - Kerror)
 To overcome poor compression performance and classification errors, a recipe will be shown for using the third-party [minidjvu-mod](https://github.com/trufanov-nok/minidjvu-mod) classifier with increasing the threshold of the [leptonica](https://github.com/DanBloomberg/leptonica) classifier to eliminate classification errors.
 
 [Recipe for using the third-party classifier minidjvu-mod with increasing the leptonica threshold to eliminate classification errors](doc/recipe.md)
+
+[Test used this recipe](tests/README.md).
